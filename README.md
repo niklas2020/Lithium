@@ -14,5 +14,5 @@ Reporting a Bug
 Submit a bug report. Make it clear what the issue is.
 Submitting a Feature Request
 
-Submit a feature request. Make it clear what feature you want added to coward.
+Submit a feature request. Make it clear what feature you want added to Lithium.
 Submitting Changes
