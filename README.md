@@ -4,16 +4,15 @@ Lithium V2 are now released with new Commands type ++help for more!
 
 Make it easy to moderate your server with a lot of helpful commands.
 
-# Crypto:
+# Contributor
 
-Lithium has a crypto command to get prices of bitcoin, litecoin etc.
+Contributing to Lithium
 
-Use: yourprefix crpyto (ltc)
+Don't use the issue tracker for support questions. Use the #coward-help channel on the Discord Server
+Reporting a Bug
 
-# Covid Stats
+Submit a bug report. Make it clear what the issue is.
+Submitting a Feature Request
 
-We have programmed a command that get the Corona infected people in specific countrys!
-
-Use: yourprefix covid (Country e.g. FR)
-
-Returns you the Corona infected people in france!
+Submit a feature request. Make it clear what feature you want added to coward.
+Submitting Changes
