@@ -8,7 +8,7 @@ Make it easy to moderate your server with a lot of helpful commands.
 
 Contributing to Lithium
 
-Don't use the issue tracker for support questions. Use the #coward-help channel on the Discord Server
+Don't use the issue tracker for support questions. Use the #bug-report channel on the Discord Server
 Reporting a Bug
 
 Submit a bug report. Make it clear what the issue is.
