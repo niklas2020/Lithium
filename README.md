@@ -4,6 +4,10 @@ Lithium V2 are now released with new Commands type ++help for more!
 
 Make it easy to moderate your server with a lot of helpful commands.
 
+```
+pm2 start shard.js
+```
+
 # Contributor
 
 Contributing to Lithium
